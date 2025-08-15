@@ -1,6 +1,6 @@
 Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.
 
-![Prévia do projeto](assets/previa.png)
+![Prévia do projeto](previa.png)
 
 <br>
 ## 🚀 Tecnologias
