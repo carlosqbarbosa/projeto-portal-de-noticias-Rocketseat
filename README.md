@@ -3,7 +3,7 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
 ![Prévia do projeto](previa.png)
 
 <br>
-## 🚀 Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
